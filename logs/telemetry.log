@@ -1,0 +1,17 @@
+5580 : 2023-04-12 15:56:09,481 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\cameron\.azure].
+5580 : 2023-04-12 15:56:09,481 : INFO : telemetry.check : Positive: The C:\Users\cameron\.azure\telemetry.txt does not exist.
+5580 : 2023-04-12 15:56:09,481 : DEBUG : telemetry.note : acquiring lock
+5580 : 2023-04-12 15:56:09,482 : DEBUG : telemetry.note : acquired lock
+5580 : 2023-04-12 15:56:09,482 : INFO : telemetry.note : Update the note mtime to 2023-04-12 15:56:09.482493
+5580 : 2023-04-12 15:56:09,483 : WARNING : telemetry.note : Fail to parse or read the timestamp 'N/A' in the note file. Set the last send time to minimal. Reason: not readable
+5580 : 2023-04-12 15:56:09,494 : INFO : telemetry.records : 1 cache files to move.
+5580 : 2023-04-12 15:56:09,495 : INFO : telemetry.records : Create temp folder C:\Users\cameron\AppData\Local\Temp\tmpcmzq4m74
+5580 : 2023-04-12 15:56:09,495 : INFO : telemetry.records : Move file C:\Users\cameron\.azure\telemetry\cache to C:\Users\cameron\AppData\Local\Temp\tmpcmzq4m74\cache
+5580 : 2023-04-12 15:56:09,516 : INFO : telemetry.records : Processed file C:\Users\cameron\AppData\Local\Temp\tmpcmzq4m74\cache into 1 records.
+5580 : 2023-04-12 15:56:09,517 : INFO : telemetry.records : Remove directory C:\Users\cameron\AppData\Local\Temp\tmpcmzq4m74
+5580 : 2023-04-12 15:56:09,537 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+5580 : 2023-04-12 15:56:09,537 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+5580 : 2023-04-12 15:56:09,796 : INFO : telemetry.sender : Sending 3438 bytes
+5580 : 2023-04-12 15:56:09,797 : INFO : telemetry.sender : Finish uploading in 0.258290 seconds.
+5580 : 2023-04-12 15:56:09,797 : INFO : telemetry.note : Update the last send in note to 2023-04-12 15:56:09
+5580 : 2023-04-12 15:56:09,797 : INFO : telemetry.note : Update the note mtime to 2023-04-12 15:56:09.797740
